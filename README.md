@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @flogat
+- 👀 I’m interested in cryptocurrency, cryptography, information security, finance, marketing
+- 🌱 I’m currently learning how to secure some Wordpress Blogs, because it is harder than it seems
+- 📫 You can reach me via email hi@flog.at
